@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/conclusion/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/conclusion/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/conclusion/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/introduction/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/introduction/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/introduction/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/setup/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/setup/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/setup/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/standards/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/standards/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/standards/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/advanced/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/advanced/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/advanced/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/advanced/administration/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/advanced/administration/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/advanced/administration/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/advanced/bridges/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/advanced/bridges/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/advanced/bridges/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/advanced/cloud/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/advanced/cloud/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/advanced/cloud/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/advanced/crs/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/advanced/crs/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/advanced/crs/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/advanced/downstream-applications/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/advanced/downstream-applications/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/advanced/downstream-applications/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/advanced/i18n/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/advanced/i18n/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/advanced/i18n/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/advanced/inspire/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/advanced/inspire/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/advanced/inspire/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/advanced/security-access-control/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/advanced/security-access-control/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/advanced/security-access-control/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/advanced/semantic-web-linked-data/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/advanced/semantic-web-linked-data/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/advanced/semantic-web-linked-data/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/advanced/seo/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/advanced/seo/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/advanced/seo/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/advanced/ui-custom-templates/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/advanced/ui-custom-templates/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/advanced/ui-custom-templates/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/publishing/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/publishing/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/publishing/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/publishing/first/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/publishing/first/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/publishing/first/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/publishing/ogcapi-coverages/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/publishing/ogcapi-coverages/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/publishing/ogcapi-coverages/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/publishing/ogcapi-edr/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/publishing/ogcapi-edr/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/publishing/ogcapi-edr/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/publishing/ogcapi-features/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/publishing/ogcapi-features/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/publishing/ogcapi-features/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/publishing/ogcapi-maps/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/publishing/ogcapi-maps/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/publishing/ogcapi-maps/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/publishing/ogcapi-processes/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/publishing/ogcapi-processes/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/publishing/ogcapi-processes/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/publishing/ogcapi-records/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/publishing/ogcapi-records/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/publishing/ogcapi-records/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/publishing/ogcapi-tiles/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/publishing/ogcapi-tiles/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/publishing/ogcapi-tiles/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/pt/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/pt/conclusion/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/conclusion/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/conclusion/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/pt/introduction/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/introduction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/introduction/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/pt/setup/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/setup/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/setup/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/pt/standards/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/standards/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/standards/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/pt/advanced/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/advanced/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/advanced/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/pt/advanced/administration/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/advanced/administration/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/advanced/administration/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/pt/advanced/bridges/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/advanced/bridges/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/advanced/bridges/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/pt/advanced/cloud/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/advanced/cloud/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/advanced/cloud/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/pt/advanced/crs/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/advanced/crs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/advanced/crs/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/pt/advanced/downstream-applications/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/advanced/downstream-applications/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/advanced/downstream-applications/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/pt/advanced/i18n/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/advanced/i18n/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/advanced/i18n/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/pt/advanced/inspire/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/advanced/inspire/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/advanced/inspire/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/pt/advanced/security-access-control/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/advanced/security-access-control/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/advanced/security-access-control/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/pt/advanced/semantic-web-linked-data/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/advanced/semantic-web-linked-data/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/advanced/semantic-web-linked-data/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/pt/advanced/seo/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/advanced/seo/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/advanced/seo/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/pt/advanced/ui-custom-templates/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/advanced/ui-custom-templates/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/advanced/ui-custom-templates/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/pt/publishing/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/publishing/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/publishing/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/pt/publishing/first/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/publishing/first/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/publishing/first/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/pt/publishing/ogcapi-coverages/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/publishing/ogcapi-coverages/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/publishing/ogcapi-coverages/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/pt/publishing/ogcapi-edr/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/publishing/ogcapi-edr/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/publishing/ogcapi-edr/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/pt/publishing/ogcapi-features/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/publishing/ogcapi-features/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/publishing/ogcapi-features/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/pt/publishing/ogcapi-maps/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/publishing/ogcapi-maps/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/publishing/ogcapi-maps/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/pt/publishing/ogcapi-processes/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/publishing/ogcapi-processes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/publishing/ogcapi-processes/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/pt/publishing/ogcapi-records/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/publishing/ogcapi-records/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/publishing/ogcapi-records/"/>
+    </url>
+    <url>
+        <loc>https://geopython.github.io/diving-into-pygeoapi/pt/publishing/ogcapi-tiles/</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://geopython.github.io/diving-into-pygeoapi/pt/publishing/ogcapi-tiles/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://geopython.github.io/diving-into-pygeoapi/publishing/ogcapi-tiles/"/>
+    </url>
+</urlset>
