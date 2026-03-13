@@ -6,16 +6,16 @@ copyright = "© 2022 - 2026 pygeoapi community"
 site_url = "https://dive.pygeoapi.io/"
 repo_url = "https://github.com/geopython/diving-into-pygeoapi"
 edit_uri = "edit/main/workshop/content/docs"
-docs_dir = "docs"
+docs_dir = "docs/pt"
 site_dir = "site/pt"
 directory_urls = true
 extra_css = [
-    "assets/stylesheets/pygeoapi.css"
+    "../assets/stylesheets/pygeoapi.css"
 ]
 
 # Native translated nav for Portuguese
 nav = [
-    { "Início" = "index.pt.md"},
+    { "Início" = "index.md"},
     { "Introdução á pygeoapi" = "introduction.pt.md"},
     { "Configuração do ambiente da workshop" = "setup.pt.md"},
     { "Normas" = "standards.pt.md"},
@@ -31,7 +31,7 @@ nav = [
         { "Exercício 8 - Funções via OGC API - Processes" = "publishing/ogcapi-processes.pt.md"}
     ]},
     { "Tópicos avançados" =[
-        { "Index" = "advanced/index.pt.md"},
+        { "Index" = "advanced/index.md"},
         { "Suporte multilíngue" = "advanced/i18n.pt.md"},
         { "Suporte a CRS" = "advanced/crs.pt.md"},
         { "Personalização de UI e templating" = "advanced/ui-custom-templates.pt.md"},
@@ -51,7 +51,7 @@ language = "pt"
 variant = "classic"
 primary = "black"
 favicon = "assets/favicon.ico"
-logo = "assets/images/pygeoapi-icon-notrans.png"
+logo = "../assets/images/pygeoapi-icon-notrans.png"
 features = [
   "content.action.edit",
   "content.action.view",
