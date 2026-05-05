@@ -316,6 +316,39 @@ resources:
 #                  mimetype: image/png
 ## END - EXERCISE 4 - Maps
 
+# START - EXERCISE 4.1 - Maps
+    bioclima:
+       type: collection
+       title: Land Surface Temperature as an Essential Climate Variable 2025_12
+       description: LST is the radiative skin temperature of the land surface. It is one of the Essential Climate Variables recognised by the Global Climate Observing System because it sits at the centre of surface energy exchange and land-atmosphere interactions (Neinavaz et al., 2020; Li et al., 2023). LST controls how incoming solar radiation is partitioned into sensible and latent heat fluxes, thereby affecting evapotranspiration, surface moisture, and boundary-layer development. Through these processes, it shapes regional climate and the intensity of extreme events (Abdullah et al., 2025; Neinavaz et al., 2020). For the same reason, LST is widely used to monitor drought stress, detect thermal anomalies, and quantify vegetation water stress at scales relevant to ecosystem management (Karinou et al., 2025; Li et al., 2023). Landsat-8 and 9 deliver thermal imagery at 30 m, which is well suited for fine-scale LST monitoring in mountain environments where steep gradients and complex terrain produce highly variable thermal regimes (Rozenstein et al., 2014). 
+       keywords:
+           - ST
+           - 2025
+           - December
+       links:
+           - type: text/html
+             rel: canonical
+             title: information
+             href: https://doi.org/10.1016/j.rsase.2025.101499
+             hreflang: en-US
+       extents:
+           spatial:
+                bbox: [23.8290382170000008,35.1818977750000030,24.1855349779999997,35.4039790360000026]
+                crs: http://www.opengis.net/def/crs/OGC/1.3/CRS84
+           temporal:
+               begin:
+               end: null  # or empty
+       providers:
+           - type: map
+             name: MapScript
+             data: /data/bioclima/project_LST_2025_12_WGS84.tif
+             options:
+                 type: MS_LAYER_RASTER
+             format:
+                 name: png
+                 mimetype: image/png
+## END - EXERCISE 4.1 - Maps
+
 ## START - EXERCISE 5 - Tiles
 #    hyderabad:
 #        type: collection
