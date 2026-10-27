@@ -1,8 +1,8 @@
 ---
-title: Exercise 9 - pygeoapi as a bridge to other services
+title: pygeoapi as a bridge to other services
 ---
 
-# Exercise 9 - pygeoapi as a bridge to other services
+# pygeoapi as a bridge to other services
 
 In this section we explore how pygeoapi can be used as a facade, or a bridge, to re-publish web services with different interfaces. These bridges can help [organisations migrating from OWS to OGC API](https://ogcapi-workshop.ogc.org/transition-and-migration).
 
